@@ -1,2 +1,2 @@
-# TIE2019
-Paper, Simulink Model, and Technical Clarifications
+# Simulink for single drone payload control
+
